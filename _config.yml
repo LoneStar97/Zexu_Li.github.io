@@ -24,13 +24,13 @@ repository               : "LoneStar97/Zexu_Li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zexu Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Pittsburgh, PA"
   employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "zel45@pitt..edu" 
+  email            : "zel45@pitt.edu" 
 
   # Academic websites
   academia         : # URL
