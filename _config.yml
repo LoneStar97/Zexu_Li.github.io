@@ -12,7 +12,7 @@ title                    : "Zexu Li"
 title_separator          : "-"
 name                     : &name "Zexu Li"
 description              : &description "Zexu Li - PhD Candidate in Civil & Environmental Engineering"
-url                      : "https://LoneStar97.github.io" # The base hostname
+url                      : "https://lonestar97.github.io" # The base hostname
 baseurl                  : "/Zexu_Li.github.io" # IMPORTANT: Matches your repository name. If you rename your repo to 'LoneStar97.github.io', change this to "" (empty quotes).
 repository               : "LoneStar97/Zexu_Li.github.io"
 teaser                   : # filename of teaser image for social media
